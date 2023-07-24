@@ -10,7 +10,7 @@ Step 2:
     Open terminal and type this command:
     All the requirements will be installed at once but it will take some time to download.
 
-    pip install -r requirements. txt
+    pip install -r requirements.txt
 Step 3:
     Open terminal and type this command:
     
