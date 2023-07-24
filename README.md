@@ -8,12 +8,13 @@ Step 1:
 
 Step 2:
     Open terminal and type this command:
-      pip install -r requirements. txt
-
     All the requirements will be installed at once but it will take some time to download.
+
+    pip install -r requirements. txt
 Step 3:
     Open terminal and type this command:
-      streamlit run app.py
+    
+    streamlit run app.py
 
 AND NOW YOUR MACHINE LEARNING GOES BRRRR....
 
