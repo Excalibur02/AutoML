@@ -14,7 +14,7 @@ Step 2:
 Step 3:
     Open terminal and type this command:
     
-    streamlit run app.py
+    streamlit run streamlit_app.py
 
 AND NOW YOUR MACHINE LEARNING GOES BRRRR....
 
